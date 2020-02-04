@@ -1,22 +1,18 @@
 {
-    "name": "crystalphp/project",
-    "description": "crystal php framework project template",
-    "type": "project",
+    "name": "crystalphp/framework",
+    "description": "crystal php framework",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
             "name": "parsa mpsh",
-            "email": "parsa84sh1384@gmail.com"
+            "email": "parsampsh@gmail.com"
         }
     ],
-    "require": {
-	   "crystalphp/framework": "^1.0",
-	   "nesbot/carbon": "^1.0"
-    },
     "autoload" : {
-        "psr-4":{
-
-        }
+        "psr-4" : {
+            "" : "src/"
+        },
     },
     "homepage": "http://crystalphp.com"
 }

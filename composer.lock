@@ -4,8 +4,42 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "a4dc5a71aeb1438b6832373f79f547d1",
+    "content-hash": "3e4a21df6349d3f2358a5097b401096d",
     "packages": [
+        {
+            "name": "crystalphp/framework",
+            "version": "v1.0",
+            "source": {
+                "type": "git",
+                "url": "https://gitlab.com/crystalphp/framework.git",
+                "reference": "790c406ceb7598ce59d89ecf61d61b39b2b7b45b"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://gitlab.com/api/v4/projects/crystalphp%2Fframework/repository/archive.zip?sha=790c406ceb7598ce59d89ecf61d61b39b2b7b45b",
+                "reference": "790c406ceb7598ce59d89ecf61d61b39b2b7b45b",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "parsa mpsh",
+                    "email": "parsampsh@gmail.com"
+                }
+            ],
+            "description": "crystal php framework",
+            "homepage": "http://crystalphp.com",
+            "time": "2020-02-03T19:41:49+00:00"
+        },
         {
             "name": "kylekatarnls/update-helper",
             "version": "1.2.0",
@@ -173,7 +207,7 @@
         },
         {
             "name": "symfony/translation",
-            "version": "v4.4.3",
+            "version": "v4.4.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/translation.git",
