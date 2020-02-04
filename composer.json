@@ -1,7 +1,7 @@
 {
-    "name": "crystalphp/framework",
-    "description": "crystal php framework",
-    "type": "library",
+    "name": "crystalphp/project",
+    "description": "crystal php framework project",
+    "type": "project",
     "license": "MIT",
     "authors": [
         {
@@ -9,10 +9,8 @@
             "email": "parsampsh@gmail.com"
         }
     ],
-    "autoload" : {
-        "psr-4" : {
-            "" : "src/"
-        },
+    "require": {
+	"crystalphp/framework": "^1.1"
     },
     "homepage": "http://crystalphp.com"
 }
