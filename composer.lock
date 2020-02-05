@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "461cf5c69add8e781df2cfcabfbdf896",
+    "content-hash": "a5af74d646c2939d2701b890d4125da3",
     "packages": [
         {
             "name": "crystalphp/framework",
-            "version": "v1.2",
+            "version": "v1.2.1",
             "source": {
                 "type": "git",
                 "url": "https://gitlab.com/crystalphp/framework.git",
-                "reference": "3686b1c4d63714d24e56386b632725543f2475b8"
+                "reference": "f43470251f5a93a4010e47f188299630bfb8c88f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://gitlab.com/api/v4/projects/crystalphp%2Fframework/repository/archive.zip?sha=3686b1c4d63714d24e56386b632725543f2475b8",
-                "reference": "3686b1c4d63714d24e56386b632725543f2475b8",
+                "url": "https://gitlab.com/api/v4/projects/crystalphp%2Fframework/repository/archive.zip?sha=f43470251f5a93a4010e47f188299630bfb8c88f",
+                "reference": "f43470251f5a93a4010e47f188299630bfb8c88f",
                 "shasum": ""
             },
             "type": "library",
@@ -38,7 +38,7 @@
             ],
             "description": "crystal php framework",
             "homepage": "http://crystalphp.com",
-            "time": "2020-02-05T20:44:39+00:00"
+            "time": "2020-02-05T21:50:21+00:00"
         }
     ],
     "packages-dev": [],
