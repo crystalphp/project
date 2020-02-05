@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-	"crystalphp/framework": "^1.1"
+	"crystalphp/framework": "^1.2"
     },
     "homepage": "http://crystalphp.com"
 }
