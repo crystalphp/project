@@ -19,7 +19,7 @@ return [
         'db' => 'db1',
         'connections' => [
             'db1' => [
-                'driver' => 'mssql',
+                'driver' => 'mysql',
                 'name' => env('DB_NAME'),
                 'host' => env('DB_HOST'),
                 'username' => env('DB_USERNAME'),
