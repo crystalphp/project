@@ -1,4 +1,5 @@
 /storage/viewcache/*
 /storage/error-reports/*
 /storage/cache/*
+/storage/.migration-data
 /vendor
