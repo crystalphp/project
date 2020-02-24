@@ -3,3 +3,4 @@
 /storage/cache/*
 /storage/.migration-data
 /vendor
+/.env
