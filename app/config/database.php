@@ -19,6 +19,7 @@ return [
         ],
 
         'sqlsrv' => [
+            // php sql server drivers is required
             'driver' => 'sqlsrv',
             'server' => env('DB_HOST'),
             'database' => env('DB_NAME'),
