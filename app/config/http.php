@@ -12,5 +12,4 @@ return [
     ],
 
     'hide_php_version_header' => false,
-    'cookies_default_life_time' => 2592000,
 ];
