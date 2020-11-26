@@ -27,9 +27,7 @@
 	<center>
 		<h1>Crystal</h1>
 		<ul>
-			<li><a href="http://crystalphp.com">Crystal</a></li>
-			<li><a href="http://gitlab.com/crystalphp/docs">Documentation</a></li>
-			<li><a href="http://gitlab.com/crystalphp">GitLab</a></li>
+			<li><a href="http://github.com/crystalphp/docs">Documentation</a></li>
 			<li><a href="http://github.com/crystalphp">GitHub</a></li>
 		</ul>
 	</center>
